@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "LET'S GET FKD UP",
+  "base_artist": "Alok, Mondello'G, CERES and Tribbs",
+  "createdAt": "2026-03-28T04:49:51.710764Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LET'S GET FKD UP",
+      "artist": "Alok",
+      "has_synced": false,
+      "path": "select/01_LET'S_GET_FKD_UP_Alok.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LET'S GET FKD UP",
+      "artist": "Mondello'G",
+      "has_synced": true,
+      "path": "select/02_LET'S_GET_FKD_UP_Mondello'G.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LET'S GET FKD UP",
+      "artist": "Alok",
+      "has_synced": true,
+      "path": "select/03_LET'S_GET_FKD_UP_Alok.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LET'S GET FKD UP",
+      "artist": "Alok",
+      "has_synced": true,
+      "path": "select/04_LET'S_GET_FKD_UP_Alok.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LET'S GET FKD UP",
+      "artist": "Alok",
+      "has_synced": true,
+      "path": "select/05_LET'S_GET_FKD_UP_Alok.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LET'S GET FKD UP",
+      "artist": "Tribbs",
+      "has_synced": true,
+      "path": "select/06_LET'S_GET_FKD_UP_Tribbs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LET'S GET FKD UP",
+      "artist": "Alok",
+      "has_synced": true,
+      "path": "select/07_LET'S_GET_FKD_UP_Alok.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LET'S GET FKD UP",
+      "artist": "Alok, Mondello' G, CERES & Tribbs",
+      "has_synced": true,
+      "path": "select/08_LET'S_GET_FKD_UP_Alok,_Mondello'_G,_CERES_&_Tribbs.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LET'S GET FKD UP",
+      "artist": "Alok, Mondello'G, CERES & Tribbs",
+      "has_synced": true,
+      "path": "select/09_LET'S_GET_FKD_UP_Alok,_Mondello'G,_CERES_&_Tribbs.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LET'S GET FKD UP",
+      "artist": "Alok, Mondello'G, CERES, Tribbs",
+      "has_synced": true,
+      "path": "select/10_LET'S_GET_FKD_UP_Alok,_Mondello'G,_CERES,_Tribbs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "LET'S GET FKD UP (Original Mix)",
+      "artist": "Ceres",
+      "has_synced": true,
+      "path": "select/11_LET'S_GET_FKD_UP_(Original_Mix)_Ceres.lrc"
+    }
+  ]
+}
