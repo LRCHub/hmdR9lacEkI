@@ -1,0 +1,78 @@
+# Alok, Mondello'G, CERES and Tribbs – LET'S GET FKD UP
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.82] Oh, let's get fucked up, baby, let your body go
+[00:03.74] I make your mind go crazy and lose control
+[00:06.88] So come and move
+[00:07.95] Move
+[00:08.54] Bod-bod-bod-body
+[00:10.43] Move, move
+[00:11.48] Bod-bod-bod
+[00:16.98] 
+[00:12.75] So, come and move with my body, let it overload
+[00:15.85] My heartbeat keep on repeating, 'bout to explode
+[00:18.77] Just turn the lights off, baby, and let it go
+[00:21.92] I make your mind go crazy, and lose control
+[00:43.42] 
+[00:24.51] So come and move with my body
+[00:26.41] Stay with me for the night
+[00:28.24] I just wanna party
+[00:29.66] Losing all control like
+[00:31.32] Na-na-na-na-na
+[00:33.02] Na-na-na-na-na
+[00:34.43] Na-na-na-na-na
+[00:35.61] Losing all control like
+[00:47.11] 
+[00:42.17] Bod-bod-bod-body
+[00:46.72] Lo-lo-losing all control like
+[00:49.33] Move, move
+[00:50.23] Bod-bod-bod-body
+[00:52.38] Move, move
+[00:53.35] Bod-bod-bod-body
+[01:01.35] 
+[00:54.99] So come and move
+[00:55.94] Move
+[00:56.49] Bod-bod-bod-body
+[00:58.17] Move, move
+[00:59.38] Bod-bod-bod-bod-bod-body
+[01:11.38] 
+[01:01.88] Na-na-na-na-na
+[01:03.20] Na-na-na-na-na
+[01:04.53] Na-na-na-na-na
+[01:06.37] Na-na-na-na-na
+[01:07.77] Na-na-na-na-na
+[01:09.16] Na-na-na-na-na
+[01:10.51] Na-na-na-na-na
+[01:17.51] 
+[01:12.84] Oh, let's get fucked up, baby, let your body go
+[01:15.83] I make your mind go crazy and lose control
+[01:36.83] 
+[01:18.77] So come and move, move
+[01:20.41] Bod-bod-bod-body
+[01:22.35] Move, move
+[01:23.58] Bod-bod
+[01:27.08] 
+[01:24.93] So come and move with my body, let it overload
+[01:27.59] My heartbeat keep on repeating, 'bout to explode
+[01:30.65] Just turn the lights off, baby, and let it go
+[01:33.86] I make your mind go crazy, and lose control
+[01:55.36] 
+[01:36.61] So come and move with my body
+[01:38.38] Stay with me for the night
+[01:40.37] I just wanna party
+[01:41.49] Losing all control like
+[01:52.99] 
+[01:43.41] Na-na-na-na-na
+[01:45.40] Na-na-na-na-na
+[01:46.72] Na-na-na-na-na
+[01:48.09] Na-na-na-na-na
+[01:49.66] Na-na-na-na-na
+[01:50.52] Losing all control like
+[02:02.02] 
+[01:52.23] Na-na-na-na-na
+[01:53.85] Na-na-na-na-na
+[01:55.60] Na-na-na-na-na
+[01:56.71] Losing all control like
+```
